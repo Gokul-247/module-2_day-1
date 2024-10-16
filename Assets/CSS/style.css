@@ -1,0 +1,55 @@
+h2{
+    color: blue;
+    background-color: azure;
+    text-align: right;
+}
+.para1{
+    color: blueviolet;
+}
+#para2{
+    color:yellowgreen
+}
+.para3{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    text-decoration: dashed;
+    text-transform: capitalize;
+    text-shadow: 0px 3px 7px rgb(238, 133, 34);
+}
+.head1{
+    color: skyblue;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+span{
+    text-decoration: overline;
+}
+.para4{
+    color:black;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-style: italic;
+    text-decoration: line-through;
+    text-shadow: 0px 1px 10px;
+    text-wrap: nowrap;
+}
+body{
+    background-color: grey;
+}
+.box1{
+    background-color: white;
+    color: aqua;
+    height: 200px;
+    width: 700px;
+    border: 3px solid black;
+    text-align: center;
+    margin-left: 150px;
+    padding-top: 5px;
+    border-radius: 5px;
+    border-right: none;
+}
